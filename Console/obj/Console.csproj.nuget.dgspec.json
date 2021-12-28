@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alaaa\\source\\repos\\Appointments\\ConsoleProjects\\Console\\Console.csproj": {}
+    "C:\\Users\\alaaa\\Source\\Repos\\AlaaEldeenAhmed\\FirstConsole\\Console\\Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alaaa\\source\\repos\\Appointments\\ConsoleProjects\\Console\\Console.csproj": {
+    "C:\\Users\\alaaa\\Source\\Repos\\AlaaEldeenAhmed\\FirstConsole\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alaaa\\source\\repos\\Appointments\\ConsoleProjects\\Console\\Console.csproj",
+        "projectUniqueName": "C:\\Users\\alaaa\\Source\\Repos\\AlaaEldeenAhmed\\FirstConsole\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "C:\\Users\\alaaa\\source\\repos\\Appointments\\ConsoleProjects\\Console\\Console.csproj",
+        "projectPath": "C:\\Users\\alaaa\\Source\\Repos\\AlaaEldeenAhmed\\FirstConsole\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\alaaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alaaa\\source\\repos\\Appointments\\ConsoleProjects\\Console\\obj\\",
+        "outputPath": "C:\\Users\\alaaa\\Source\\Repos\\AlaaEldeenAhmed\\FirstConsole\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
