@@ -8,5 +8,10 @@ namespace Console.Calculator
 {
     public class Divtion
     {
+        public static float Div(int NumberOn, int NumberTwo)
+        {
+            int result = NumberOn - NumberTwo;
+            return result;
+        }
     }
 }
